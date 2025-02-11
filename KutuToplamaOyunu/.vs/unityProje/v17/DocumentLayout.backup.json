@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\esctomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\esctomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\pausemanagerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\pausemanagerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|c:\\users\\basab\\onedrive\\desktop\\unityoyunprojesi\\unityproje\\assets\\kodlar\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\playerfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\playerfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\particleoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\particleoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\kalankupsayaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\kalankupsayaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\toplanabilirkup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\toplanabilirkup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\toplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\toplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\hakeket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\hakeket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\assets\\kodlar\\kameratakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B16EE-ACA8-B265-72FE-EF28A86DC34A}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\kameratakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerFinish.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\PlayerFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\PlayerFinish.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\PlayerFinish.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\PlayerFinish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:16:07.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParticleOnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\ParticleOnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\ParticleOnCollision.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\ParticleOnCollision.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\ParticleOnCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:58:42.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KalanKupSayaci.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\KalanKupSayaci.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\KalanKupSayaci.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\KalanKupSayaci.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\KalanKupSayaci.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:03:03.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackgroundMusic.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\BackgroundMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\BackgroundMusic.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\BackgroundMusic.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\BackgroundMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:49:36.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PauseManagerr.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\PauseManagerr.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\PauseManagerr.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\PauseManagerr.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\PauseManagerr.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:38:29.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscToMenu.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\EscToMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\EscToMenu.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\EscToMenu.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\EscToMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:36:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\MenuScript.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\MenuScript.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:22:32.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Toplayici.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\Toplayici.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\Toplayici.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\Toplayici.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\Toplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:20:25.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToplanabilirKup.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\ToplanabilirKup.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\ToplanabilirKup.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\ToplanabilirKup.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\ToplanabilirKup.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:15:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KameraTakip.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\KameraTakip.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\KameraTakip.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\KameraTakip.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\KameraTakip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:28:01.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hakeket.cs",
+              "DocumentMoniker": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\Hakeket.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\Hakeket.cs",
+              "ToolTip": "C:\\Users\\basab\\OneDrive\\Desktop\\UnityOyunProjesi\\unityProje\\Assets\\Kodlar\\Hakeket.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\Hakeket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:20:03.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
